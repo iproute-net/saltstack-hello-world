@@ -9,7 +9,7 @@ The content of this repository has been designed for one single SaltStack contai
 ## Clone the repository
 
 ```
-git clone https://github.com/ksator/saltstack_demo_with_eos_arista.git
+git clone https://github.com/arista-netdevops-community/saltstack-demo.git
 ```
 
 ## Move to the local repository
